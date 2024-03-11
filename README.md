@@ -1,7 +1,9 @@
 The repository is linked to the publication mentioned below.
 Taheri, Mohsen, and Jörn Schulz. "Statistical analysis of locally parameterized shapes." Journal of Computational and Graphical Statistics 32, no. 2 (2023): 658-670.
 
-Cite
+[https://doi.org/10.1080/10618600.2022.2116445]
+
+Cite:
 
 @article{taheri2023statistical,
   title={Statistical analysis of locally parameterized shapes},
