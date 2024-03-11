@@ -16,4 +16,9 @@ Cite:
   publisher={Taylor \& Francis}
 }
 
+The user manual is available via:
+[Readme.pdf](https://github.com/MohsenTaheriShalmani/Statistical_Analysis_of_Locally_Parameterized_Shapes/files/14558067/Readme.pdf)
+
+
+
 ![LPDSRep](https://github.com/MohsenTaheriShalmani/Statistical_Analysis_of_Locally_Parameterized_Shapes/assets/19237855/7d2ea0c7-cbba-4304-a0b5-14c03dbaef18)
