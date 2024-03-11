@@ -7,8 +7,8 @@ Taheri, Mohsen, and Jörn Schulz. "Statistical analysis of locally parameterized
 [Statistical Analysis of Locally Parameterized Shapes Taylor and Francis.pdf](https://github.com/MohsenTaheriShalmani/Statistical_Analysis_of_Locally_Parameterized_Shapes/files/14559989/Statistical.Analysis.of.Locally.Parameterized.Shapes.Taylor.and.Francis.pdf)
 
 
-Cite:
-
+## Citing
+```
 @article{taheri2023statistical,
   title={Statistical analysis of locally parameterized shapes},
   author={Taheri, Mohsen and Schulz, J{\"o}rn},
@@ -19,6 +19,7 @@ Cite:
   year={2023},
   publisher={Taylor \& Francis}
 }
+```
 
 The user manual is available via:
 [Readme.pdf](https://github.com/MohsenTaheriShalmani/Statistical_Analysis_of_Locally_Parameterized_Shapes/files/14558067/Readme.pdf)
